@@ -109,54 +109,7 @@ const Portfolio = () => (
             <div class="portfolio-caption">
               <div class="portfolio-caption-heading">Spirit</div>
               <div class="portfolio-caption-subheading text-muted">
-<<<<<<< HEAD
                 Whisky/Vodka/Tequila
-=======
-                Branding
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
-          <div class="portfolio-item">
-            <a>
-              <img
-                class="img-fluid"
-                src="assets/img/portfolio/5.jpg"
-                alt="..."
-              />
-            </a>
-            <div class="portfolio-caption">
-              <div class="portfolio-caption-heading">Southwest</div>
-              <div class="portfolio-caption-subheading text-muted">
-                Website Design
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <div class="portfolio-item">
-            <a
-              class="portfolio-link"
-              data-bs-toggle="modal"
-              href="#portfolioModal6"
-            >
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img
-                class="img-fluid"
-                src="assets/img/portfolio/6.jpg"
-                alt="..."
-              />
-            </a>
-            <div class="portfolio-caption">
-              <div class="portfolio-caption-heading">Window</div>
-              <div class="portfolio-caption-subheading text-muted">
-                Photography
->>>>>>> 0311174999d4f994a75dbc1afbabde2b8388c0d9
               </div>
             </div>
           </div>
