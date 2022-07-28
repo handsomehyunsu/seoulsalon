@@ -23,27 +23,27 @@ const Nav = () => (
           <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
             <li class="nav-item">
               <a class="nav-link" href="#services">
-                Services
+                Delivery
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#portfolio">
-                Portfolio
+                Menu
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#about">
-                About
+                Sister Company
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#team">
-                Team
+                Contact
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#contact">
-                Contact
+                Reservation
               </a>
             </li>
           </ul>
