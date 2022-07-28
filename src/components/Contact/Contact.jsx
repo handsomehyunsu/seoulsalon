@@ -1,4 +1,12 @@
-import { React, useRef, useEffect } from "react";
+import {
+  React,
+  useRef,
+  useEffect,
+  useMemo,
+  useState,
+  useCallback,
+} from "react";
+
 import { useForm, Controller } from "react-hook-form";
 
 import emailjs from "@emailjs/browser";
@@ -66,6 +74,10 @@ const Contact = () => {
                       selected={field.value}
                       showTimeSelect
                       dateFormat="Pp"
+                      //minDate={new Date()}
+                      minDate={new Date()}
+                      minTime={new Date().setHours(17, 0, 0, 0)}
+                      maxTime={new Date().setHours(21, 0, 0, 0)}
                       ref={time}
                     />
                   )}
