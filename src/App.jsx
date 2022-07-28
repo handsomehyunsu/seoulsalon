@@ -13,11 +13,11 @@ function App() {
     <body>
       <Nav></Nav>
       <MasterHeader></MasterHeader>
+      {/* <Clients></Clients> */}
       <Services></Services>
       <Portfolio></Portfolio>
       <About></About>
       <Team></Team>
-      <Clients></Clients>
       <Contact></Contact>
     </body>
   );

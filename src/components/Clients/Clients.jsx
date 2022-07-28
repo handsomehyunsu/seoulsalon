@@ -8,7 +8,7 @@ const Clients = () => (
           <a href="#!">
             <img
               class="img-fluid img-brand d-block mx-auto"
-              src="assets/img/logos/microsoft.svg"
+              src="assets/img/logos/uber600.png"
               alt="..."
               aria-label="Microsoft Logo"
             />

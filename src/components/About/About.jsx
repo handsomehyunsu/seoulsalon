@@ -4,7 +4,7 @@ const About = () => (
   <section class="page-section" id="about">
     <div class="container">
       <div class="text-center">
-        <h2 class="section-heading text-uppercase">About</h2>
+        <h2 class="section-heading text-uppercase">Sister Companies</h2>
         <h3 class="section-subheading text-muted">
           Lorem ipsum dolor sit amet consectetur.
         </h3>
@@ -14,21 +14,18 @@ const About = () => (
           <div class="timeline-image">
             <img
               class="rounded-circle img-fluid"
-              src="assets/img/about/1.jpg"
+              src=""
               alt="..."
             />
           </div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4>2009-2011</h4>
-              <h4 class="subheading">Our Humble Beginnings</h4>
+              <h4>Concerto Cafe</h4>
+              <h6 class="subheading">610 S Serrano Ave, Los Angeles, CA 90005</h6>
             </div>
             <div class="timeline-body">
               <p class="text-muted">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt
-                ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                quibusdam, recusandae sit vero unde, sed, incidunt et ea quo
-                dolore laudantium consectetur!
+                Bucci is here
               </p>
             </div>
           </div>
@@ -37,21 +34,18 @@ const About = () => (
           <div class="timeline-image">
             <img
               class="rounded-circle img-fluid"
-              src="assets/img/about/2.jpg"
+              src=""
               alt="..."
             />
           </div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4>March 2011</h4>
-              <h4 class="subheading">An Agency is Born</h4>
+              <h4>Concerto Bakery</h4>
+              <h6 class="subheading">3500 W 6th St #117, Los Angeles, CA 90020</h6>
             </div>
             <div class="timeline-body">
               <p class="text-muted">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt
-                ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                quibusdam, recusandae sit vero unde, sed, incidunt et ea quo
-                dolore laudantium consectetur!
+                no mat
               </p>
             </div>
           </div>
@@ -60,21 +54,18 @@ const About = () => (
           <div class="timeline-image">
             <img
               class="rounded-circle img-fluid"
-              src="assets/img/about/3.jpg"
+              src=""
               alt="..."
             />
           </div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4>December 2015</h4>
-              <h4 class="subheading">Transition to Full Service</h4>
+              <h4>The Marlou Restaurant</h4>
+              <h6 class="subheading">819 Flower St, Los Angeles, CA 90017</h6>
             </div>
             <div class="timeline-body">
               <p class="text-muted">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt
-                ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                quibusdam, recusandae sit vero unde, sed, incidunt et ea quo
-                dolore laudantium consectetur!
+                2 idiot chefs here
               </p>
             </div>
           </div>
@@ -83,21 +74,18 @@ const About = () => (
           <div class="timeline-image">
             <img
               class="rounded-circle img-fluid"
-              src="assets/img/about/4.jpg"
+              src=""
               alt="..."
             />
           </div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4>July 2020</h4>
-              <h4 class="subheading">Phase Two Expansion</h4>
+              <h4>The Burrow Bar</h4>
+              <h6 class="subheading">821 Flower St, Los Angeles, CA 90017</h6>
             </div>
             <div class="timeline-body">
               <p class="text-muted">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt
-                ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                quibusdam, recusandae sit vero unde, sed, incidunt et ea quo
-                dolore laudantium consectetur!
+                almost done..
               </p>
             </div>
           </div>
@@ -105,11 +93,11 @@ const About = () => (
         <li class="timeline-inverted">
           <div class="timeline-image">
             <h4>
-              Be Part
+              김
               <br />
-              Of Our
+              은
               <br />
-              Story!
+              상!
             </h4>
           </div>
         </li>

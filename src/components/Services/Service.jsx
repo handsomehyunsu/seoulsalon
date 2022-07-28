@@ -4,44 +4,20 @@ const Services = () => (
   <section class="page-section" id="services">
     <div class="container">
       <div class="text-center">
-        <h2 class="section-heading text-uppercase">Services</h2>
-        <h3 class="section-subheading text-muted">
-          Lorem ipsum dolor sit amet consectetur.
-        </h3>
+        <h2 class="section-heading text-uppercase">Available Delivery</h2>
       </div>
       <div class="row text-center">
-        <div class="col-md-4">
-          <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+        <div class="col-md-6">
+          <span class="fa-stack fa-4x" >
+            <a href="https://www.ubereats.com/store/seoul-salon-restaurant-%26-bar/TkAYu5tHSN2JQSTwXkjIlw?diningMode=PICKUP&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlNlb3VsJTIwU2Fsb24lMjBSZXN0YXVyYW50JTIwJTI2JTIwQmFyJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyNGZjZWJiZjUtMmYyOS1hNzgxLTkzYjQtZTUxODA4YTc2ZjY2JTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMnViZXJfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EzNC4wNjE1NiUyQyUyMmxvbmdpdHVkZSUyMiUzQS0xMTguMzAzMTE4JTdE"><img src="assets/img/uber.png"/></a>
           </span>
-          <h4 class="my-3">E-Commerce</h4>
-          <p class="text-muted">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-            maxime quam architecto quo inventore harum ex magni, dicta impedit.
-          </p>
+          <h4 class="my-3">Uber Eat</h4>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+            <a href="https://www.doordash.com/store/seoul-salon-restaurant-&-bar-los-angeles-1363030/"><img src="assets/img/doordash.png"/></a>
           </span>
-          <h4 class="my-3">Responsive Design</h4>
-          <p class="text-muted">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-            maxime quam architecto quo inventore harum ex magni, dicta impedit.
-          </p>
-        </div>
-        <div class="col-md-4">
-          <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-          </span>
-          <h4 class="my-3">Web Security</h4>
-          <p class="text-muted">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
-            maxime quam architecto quo inventore harum ex magni, dicta impedit.
-          </p>
+          <h4 class="my-3">DoorDash</h4>
         </div>
       </div>
     </div>
