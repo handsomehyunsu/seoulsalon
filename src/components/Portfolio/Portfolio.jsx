@@ -10,7 +10,7 @@ const Portfolio = () => (
         </h3>
       </div>
       <div class="row">
-        <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="col-lg-6 col-sm-6 mb-4">
           <div class="portfolio-item">
             <a
               class="portfolio-link"
@@ -18,15 +18,12 @@ const Portfolio = () => (
               href="#portfolioModal1"
             >
               <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
+                {/* <div class="portfolio-hover-content">
                   <i class="fas fa-plus fa-3x"></i>
-                </div>
+                  
+                </div> */}
               </div>
-              <img
-                class="img-fluid"
-                src="assets/img/portfolio/1.jpg"
-                alt="..."
-              />
+              <img class="img-fluid" src="assets/img/Lunch.jpg" alt="..." />
             </a>
             <div class="portfolio-caption">
               <div class="portfolio-caption-heading">Lunch</div>
@@ -36,7 +33,7 @@ const Portfolio = () => (
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="col-lg-6 col-sm-6 mb-4">
           <div class="portfolio-item">
             <a
               class="portfolio-link"
@@ -44,15 +41,11 @@ const Portfolio = () => (
               href="#portfolioModal2"
             >
               <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
+                {/* <div class="portfolio-hover-content">
                   <i class="fas fa-plus fa-3x"></i>
-                </div>
+                </div> */}
               </div>
-              <img
-                class="img-fluid"
-                src="assets/img/portfolio/2.jpg"
-                alt="..."
-              />
+              <img class="img-fluid" src="assets/img/dinner.jpg" alt="..." />
             </a>
             <div class="portfolio-caption">
               <div class="portfolio-caption-heading">Dinner</div>
@@ -62,7 +55,7 @@ const Portfolio = () => (
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="col-lg-6 col-sm-6 mb-4">
           <div class="portfolio-item">
             <a
               class="portfolio-link"
@@ -70,15 +63,11 @@ const Portfolio = () => (
               href="#portfolioModal3"
             >
               <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
+                {/* <div class="portfolio-hover-content">
                   <i class="fas fa-plus fa-3x"></i>
-                </div>
+                </div> */}
               </div>
-              <img
-                class="img-fluid"
-                src="assets/img/portfolio/3.jpg"
-                alt="..."
-              />
+              <img class="img-fluid" src="assets/img/Wine.jpg" alt="..." />
             </a>
             <div class="portfolio-caption">
               <div class="portfolio-caption-heading">Wine</div>
@@ -88,7 +77,7 @@ const Portfolio = () => (
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+        <div class="col-lg-6 col-sm-6 mb-4 mb-lg-0">
           <div class="portfolio-item">
             <a
               class="portfolio-link"
@@ -96,15 +85,11 @@ const Portfolio = () => (
               href="#portfolioModal4"
             >
               <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
+                {/* <div class="portfolio-hover-content">
                   <i class="fas fa-plus fa-3x"></i>
-                </div>
+                </div> */}
               </div>
-              <img
-                class="img-fluid"
-                src="assets/img/portfolio/4.jpg"
-                alt="..."
-              />
+              <img class="img-fluid" src="assets/img/Spirit.jpg" />
             </a>
             <div class="portfolio-caption">
               <div class="portfolio-caption-heading">Spirit</div>
