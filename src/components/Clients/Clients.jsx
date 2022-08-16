@@ -25,12 +25,12 @@ const Clients = () => (
           </a>
         </div>
         <div class="col-md-4 col-sm-6 my-3">
-          <a href="#!">
+          <a href="https://www.grubhub.com/restaurant/seoul-salon-restaurants-and-bar-3600-wilshire-blvd-los-angeles/3123831">
             <img
               class="img-fluid img-brand d-block mx-auto"
               src="assets/img/logos/grubhub.svg"
               alt="..."
-              aria-label="Facebook Logo"
+              aria-label=""
             />
           </a>
         </div>

@@ -6,7 +6,7 @@ const Portfolio = () => (
       <div class="text-center">
         <h2 class="section-heading text-uppercase">Menu</h2>
         <h3 class="section-subheading text-muted">
-          Lorem ipsum dolor sit amet consectetur.
+          Thank you for choosing our restaurant & Enjoy our food
         </h3>
       </div>
       <div class="row">
@@ -14,8 +14,8 @@ const Portfolio = () => (
           <div class="portfolio-item">
             <a
               class="portfolio-link"
-              data-bs-toggle="modal"
-              href="#portfolioModal1"
+              // data-bs-toggle="modal"
+              href="https://drive.google.com/file/d/1J1DZxTt5UY5R11RlewtBDNiqdZpJKq4s/view?usp=sharing"
             >
               <div class="portfolio-hover">
                 {/* <div class="portfolio-hover-content">
@@ -28,7 +28,7 @@ const Portfolio = () => (
             <div class="portfolio-caption">
               <div class="portfolio-caption-heading">Lunch</div>
               <div class="portfolio-caption-subheading text-muted">
-                11:00am - 3:00pm
+                11:30am - 2:30pm
               </div>
             </div>
           </div>
@@ -37,8 +37,7 @@ const Portfolio = () => (
           <div class="portfolio-item">
             <a
               class="portfolio-link"
-              data-bs-toggle="modal"
-              href="#portfolioModal2"
+              href="https://drive.google.com/file/d/1977QFpil20qo6HgbeaPQkSij4vYVoqWn/view?usp=sharing"
             >
               <div class="portfolio-hover">
                 {/* <div class="portfolio-hover-content">
@@ -59,8 +58,7 @@ const Portfolio = () => (
           <div class="portfolio-item">
             <a
               class="portfolio-link"
-              data-bs-toggle="modal"
-              href="#portfolioModal3"
+              href="https://drive.google.com/file/d/1g9FWdC4UIKeZM7jc9KfLZBKJaSXVVMym/view?usp=sharing"
             >
               <div class="portfolio-hover">
                 {/* <div class="portfolio-hover-content">
@@ -81,8 +79,7 @@ const Portfolio = () => (
           <div class="portfolio-item">
             <a
               class="portfolio-link"
-              data-bs-toggle="modal"
-              href="#portfolioModal4"
+              href="https://drive.google.com/file/d/1ra0K9dCltpexi3seGyUQzXM_oFqFJzjo/view?usp=sharing"
             >
               <div class="portfolio-hover">
                 {/* <div class="portfolio-hover-content">

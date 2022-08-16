@@ -26,7 +26,7 @@ const About = () => (
               </h6>
             </div>
             <div class="timeline-body">
-              <p class="text-muted">Bucci is here</p>
+              <p class="text-muted"></p>
             </div>
           </div>
         </li>
@@ -46,7 +46,7 @@ const About = () => (
               </h6>
             </div>
             <div class="timeline-body">
-              <p class="text-muted">no mat</p>
+              <p class="text-muted"></p>
             </div>
           </div>
         </li>
@@ -64,7 +64,7 @@ const About = () => (
               <h6 class="subheading">819 Flower St, Los Angeles, CA 90017</h6>
             </div>
             <div class="timeline-body">
-              <p class="text-muted">2 idiot chefs here</p>
+              <p class="text-muted"></p>
             </div>
           </div>
         </li>
@@ -82,7 +82,7 @@ const About = () => (
               <h6 class="subheading">821 Flower St, Los Angeles, CA 90017</h6>
             </div>
             <div class="timeline-body">
-              <p class="text-muted">almost done..</p>
+              <p class="text-muted"></p>
             </div>
           </div>
         </li>
