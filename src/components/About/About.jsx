@@ -86,17 +86,6 @@ const About = () => (
             </div>
           </div>
         </li>
-        <li class="timeline-inverted">
-          <div class="timeline-image">
-            <h4>
-              김
-              <br />
-              은
-              <br />
-              상!
-            </h4>
-          </div>
-        </li>
       </ul>
     </div>
   </section>

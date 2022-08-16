@@ -4,37 +4,37 @@ const Clients = () => (
   <div class="py-5">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-md-3 col-sm-6 my-3">
-          <a href="#!">
+        <div class="col-md-4 col-sm-6 my-3">
+          <a href="https://www.ubereats.com/store/seoul-salon-restaurant-%26-bar/TkAYu5tHSN2JQSTwXkjIlw?diningMode=PICKUP&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlNlb3VsJTIwU2Fsb24lMjBSZXN0YXVyYW50JTIwJTI2JTIwQmFyJTIyJTJDJTIycmVmZXJlbmNlJTIyJTNBJTIyNGZjZWJiZjUtMmYyOS1hNzgxLTkzYjQtZTUxODA4YTc2ZjY2JTIyJTJDJTIycmVmZXJlbmNlVHlwZSUyMiUzQSUyMnViZXJfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0EzNC4wNjE1NiUyQyUyMmxvbmdpdHVkZSUyMiUzQS0xMTguMzAzMTE4JTdE">
             <img
               class="img-fluid img-brand d-block mx-auto"
-              src="assets/img/logos/uber600.png"
+              src="assets/img/logos/uber-eats.svg"
               alt="..."
-              aria-label="Microsoft Logo"
+              aria-label=""
             />
           </a>
         </div>
-        <div class="col-md-3 col-sm-6 my-3">
-          <a href="#!">
+        <div class="col-md-4 col-sm-6 my-3">
+          <a href="https://www.doordash.com/store/seoul-salon-restaurant-&-bar-los-angeles-1363030/">
             <img
               class="img-fluid img-brand d-block mx-auto"
-              src="assets/img/logos/google.svg"
+              src="assets/img/logos/doordash-logo.svg"
               alt="..."
-              aria-label="Google Logo"
+              aria-label=""
             />
           </a>
         </div>
-        <div class="col-md-3 col-sm-6 my-3">
+        <div class="col-md-4 col-sm-6 my-3">
           <a href="#!">
             <img
               class="img-fluid img-brand d-block mx-auto"
-              src="assets/img/logos/facebook.svg"
+              src="assets/img/logos/grubhub.svg"
               alt="..."
               aria-label="Facebook Logo"
             />
           </a>
         </div>
-        <div class="col-md-3 col-sm-6 my-3">
+        {/* <div class="col-md-3 col-sm-6 my-3">
           <a href="#!">
             <img
               class="img-fluid img-brand d-block mx-auto"
@@ -43,7 +43,7 @@ const Clients = () => (
               aria-label="IBM Logo"
             />
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   </div>
