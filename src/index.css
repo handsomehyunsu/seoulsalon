@@ -12190,12 +12190,18 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .op_button {
-  margin-top: 0.5rem;
+  border: 2px solid white;
+  color: white; 
+   margin-top: 0.5rem;
 }
 .yelp_button {
+  border: 2px solid white;
+  color: white;
   margin-top: 0.5rem;
 }
 
 .mk-button {
+  border: 2px solid white;
+  color: white;
   margin-top: 8rem;
 }

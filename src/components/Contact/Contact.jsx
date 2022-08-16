@@ -1,48 +1,44 @@
-import {
-  React,
-  useRef,
-  useEffect,
-  useMemo,
-  useState,
-  useCallback,
-} from "react";
-
+import { React, useRef } from "react";
 import { useForm, Controller } from "react-hook-form";
-
 import emailjs from "@emailjs/browser";
-import DatePicker, { registerLocale } from "react-datepicker";
+import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 
 const Contact = () => {
   const form = useRef();
   const time = useRef();
 
-  const { control, register, handleSubmit } = useForm();
+  const { control } = useForm();
+
   const sendEmail = (e) => {
-    const timeTest = time.current.props.selected;
-    console.log(timeTest);
+    console.log(time);
+    const month = time.current.props.selected.getMonth();
+    const day = time.current.props.selected.getDate();
+    const hour = time.current.props.selected.getHours();
+    const min = time.current.props.selected.getMinutes();
 
-    timeTest.toLocaleString("en-US", { timeZone: "America/New_York" });
-
-    const test = {
+    const info = {
       name: form.current["name"].value,
       email: form.current["email"].value,
       phone: form.current["phone"].value,
       message: form.current["message"].value,
       size: form.current["size"].value,
-      time: timeTest,
+      time: time.current.props.selected,
+      month: month + 1,
+      day: day,
+      hour: hour,
+      min: min,
     };
-    console.log("log1", form.current["name"].value);
-    console.log("log1", form.current["email"].value);
-    console.log("log1", form.current["phone"].value);
-    console.log("log1", form.current["message"].value);
-    console.log("log1", form.current["size"].value);
-    console.log("log1", time.current.props.selected);
+    console.log("log name", form.current["name"].value);
+    console.log("log email", form.current["email"].value);
+    console.log("log phone", form.current["phone"].value);
+    console.log("log message", form.current["message"].value);
+    console.log("log size", form.current["size"].value);
+    console.log("log time", time.current.props.selected);
 
     e.preventDefault();
-    console.log(test);
     emailjs
-      .send("service_pjm17hj", "template_n9r6ub9", test, "TSXs1GGLpKlBne79F")
+      .send("service_pjm17hj", "template_n9r6ub9", info, "TSXs1GGLpKlBne79F")
       .then(
         (result) => {
           console.log(result.status, result.text);
@@ -74,7 +70,6 @@ const Contact = () => {
                       onChange={(date) => field.onChange(date)}
                       selected={field.value}
                       showTimeSelect
-                      locale="pt-BR"
                       dateFormat="Pp"
                       timeFormat="p"
                       //minDate={new Date()}

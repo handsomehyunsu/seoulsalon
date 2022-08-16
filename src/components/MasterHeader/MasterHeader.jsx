@@ -6,16 +6,20 @@ const MasterHeader = () => (
       <div class="masthead-heading">Welcome to</div>
       <div class="masthead-heading">Seoul Salon Restaurant & Bar</div>
       <div class="masthead-subheading">
-        Seoul Salon Restaurant & Bar is<br></br> a locally owned business
+        An atmosphere unmatched in the US,<br></br> travel back to the 1930’s of
+        Seoul:<br></br>a time of elegance and refinement.<br></br> Make your
+        reservation now!
+        {/* Seoul Salon Restaurant & Bar is<br></br> a
+        locally owned business
         <br></br> that is quality driven to provide<br></br> the best products
-        to our customers.
+        to our customers. */}
       </div>
-      <a class="btn btn-primary btn-m text-uppercase mk-button" href="#contact">
+      <a class="btn  btn-m text-uppercase mk-button" href="#contact">
         Make a reservation
       </a>
       <br />
       <a
-        class="btn btn-danger btn-m text-uppercase yelp_button"
+        class="btn  btn-m text-uppercase yelp_button"
         href="https://www.yelp.com/biz/seoul-salon-restaurant-and-bar-los-angeles"
       >
         <svg
@@ -32,7 +36,7 @@ const MasterHeader = () => (
       </a>
       <br />
       <a
-        class="btn btn-danger btn-m text-uppercase op_button"
+        class="btn btn-m text-uppercase op_button"
         href="https://www.opentable.com/r/seoul-salon-restaurant-and-bar-los-angeles?corrid=f1f9c5fd-b801-4e0b-a4bc-7b21a4c2dd38&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2022-07-28T19%3A00%3A00"
       >
         <svg
