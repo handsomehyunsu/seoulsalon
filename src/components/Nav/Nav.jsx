@@ -30,17 +30,17 @@ const Nav = () => {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#portfolio">
+                <a class="nav-link" href="#menu">
                   Menu
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#about">
+                <a class="nav-link" href="#sister">
                   Sister Company
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#team">
+                <a class="nav-link" href="#contact1">
                   Contact
                 </a>
               </li>

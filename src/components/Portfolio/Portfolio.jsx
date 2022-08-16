@@ -1,7 +1,7 @@
 import React from "react";
 
 const Portfolio = () => (
-  <section class="page-section bg-light" id="portfolio">
+  <section class="page-section bg-light" id="menu">
     <div class="container">
       <div class="text-center">
         <h2 class="section-heading text-uppercase">Menu</h2>
