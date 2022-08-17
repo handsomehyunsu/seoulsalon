@@ -12192,7 +12192,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 .op_button {
   border: 2px solid white;
   color: white; 
-   margin-top: 0.5rem;
+  margin-top: 0.5rem;
 }
 .yelp_button {
   border: 2px solid white;
@@ -12204,4 +12204,13 @@ section#contact form#contactForm :-ms-input-placeholder {
   border: 2px solid white;
   color: white;
   margin-top: 8rem;
+}
+
+.portfolio-caption-heading {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.portfolio-caption-subheading{
+  text-align: center;
 }
