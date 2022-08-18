@@ -26,8 +26,14 @@ const About = () => (
               </h6>
             </div>
             <div class="timeline-body">
-              <p class="text-muted">Concerto has been serving Euro Korean Cuisine in the middle of k-town, Los Angeles in a friendly, neighborhood atmosphere that exudes a hip downtown vibe.
-                Here, contemporary Euro Korean dishes collide with rich flavors to create a distinctive culinary style. We strive to promote well-being among our guests by utilizing only the finest meats and the freshest organic produce in our dishes.
+              <p class="text-muted">
+                Concerto has been serving Euro Korean Cuisine in the middle of
+                k-town, Los Angeles in a friendly, neighborhood atmosphere that
+                exudes a hip downtown vibe. Here, contemporary Euro Korean
+                dishes collide with rich flavors to create a distinctive
+                culinary style. We strive to promote well-being among our guests
+                by utilizing only the finest meats and the freshest organic
+                produce in our dishes.
               </p>
             </div>
           </div>
@@ -67,7 +73,16 @@ const About = () => (
             </div>
             <div class="timeline-body">
               <p class="text-muted">
-                Located in the heart of Downtown Los Angeles, Chefs / Owners Louis Huh and Marcos Spaziani are serving up delicious fusion faire. Chef Marcos was the new chef of Below Deck Sailing Yacht, a popular show on Bravo TV and NBC. Chef Louis has competed and won on the Food Network. Together, they created ML Eats, a food truck in Los Angeles, that catered to community events, sporting events, the Grammys, etc. Now their brick & mortar, Marlou LA, is a destination restaurant for all visiting foodies and locals. Marlou LA will be opening a second location in Koreatown in the coming months. Stay tuned!
+                Located in the heart of Downtown Los Angeles, Chefs / Owners
+                Louis Huh and Marcos Spaziani are serving up delicious fusion
+                faire. Chef Marcos was the new chef of Below Deck Sailing Yacht,
+                a popular show on Bravo TV and NBC. Chef Louis has competed and
+                won on the Food Network. Together, they created ML Eats, a food
+                truck in Los Angeles, that catered to community events, sporting
+                events, the Grammys, etc. Now their brick & mortar, Marlou LA,
+                is a destination restaurant for all visiting foodies and locals.
+                Marlou LA will be opening a second location in Koreatown in the
+                coming months. Stay tuned!
               </p>
             </div>
           </div>
@@ -76,7 +91,7 @@ const About = () => (
           <div class="timeline-image">
             <img
               class="rounded-circle img-fluid"
-              src="assets/img/Concerto.jpg"
+              src="assets/img/burrow.jpg"
               alt="..."
             />
           </div>
@@ -87,7 +102,16 @@ const About = () => (
             </div>
             <div class="timeline-body">
               <p class="text-muted">
-              The Burrow bar & kitchen in downtown Los Angeles is a hidden gem located in an underground cozy bar setting beneath the O Hotel. This hideaway offers signature craft cocktails alongside a curated selection of beer and wine, paired with light and tasty tapas such as arepas, ceviche to gourmet sandwiches. Located in the heart of downtown Los Angeles, Chefs/Owners Marcos Spaziani and Louis Huh take realm of the Burrow, bringing DTLA delicious fusion tapas. Marcos Spaziani was the new chef of Below Deck Sailing Yacht, a popular show on Bravo TV and NBC. Come see what he can do outside of a slanted boat!
+                The Burrow bar & kitchen in downtown Los Angeles is a hidden gem
+                located in an underground cozy bar setting beneath the O Hotel.
+                This hideaway offers signature craft cocktails alongside a
+                curated selection of beer and wine, paired with light and tasty
+                tapas such as arepas, ceviche to gourmet sandwiches. Located in
+                the heart of downtown Los Angeles, Chefs/Owners Marcos Spaziani
+                and Louis Huh take realm of the Burrow, bringing DTLA delicious
+                fusion tapas. Marcos Spaziani was the new chef of Below Deck
+                Sailing Yacht, a popular show on Bravo TV and NBC. Come see what
+                he can do outside of a slanted boat!
               </p>
             </div>
           </div>
